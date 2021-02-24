@@ -1,2 +1,2 @@
 fail:
-	false
+	true
